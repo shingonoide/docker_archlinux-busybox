@@ -1,7 +1,7 @@
 shingonoide/archlinux-busybox
 ======
 
-[![Automated Build](http://img.shields.io/badge/automated-build-green.svg)](https://registry.hub.docker.com/u/dock0/arch/)
+[![Automated Build](http://img.shields.io/badge/automated-build-green.svg)](https://registry.hub.docker.com/u/shingonoide/archlinux-busybox/)
 [![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
 Archlinux 2015.02.23 Minimal installation x86_64
