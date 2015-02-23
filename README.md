@@ -14,11 +14,11 @@ Archlinux 2015.02.23 Minimal installation x86_64
 
 ### Run a container with bash
 
-    docker run --rm -it shingonoide/archlinux-busybox bash
+    docker run -it shingonoide/archlinux-busybox bash
 
 ### Install package with pacman
 
-    docker run --rm -it shingonoide/archlinux-busybox pacman -S python2-pip
+    docker run shingonoide/archlinux-busybox pacman -S python2-pip
 
 ### base-devel to get development tools
 
