@@ -36,10 +36,10 @@ After compile, remove all base-devel packages of your image:
 * This image has pacman keys initialized.
 * Packages removed or changed
   * __systemd__ removed, not need to container environment
-  * __busybox-coreutils__ instead of ~~__coreutils__~~
-  * __busybox-util-linux__ instead ~~__util-linux__~~
-  * __busybox-iputils__ instead of ~~__iputils__~~
-  * __busybox-findutils__ instead of ~~__findutils__~~
+  * __busybox-coreutils__ instead of ~~coreutils~~
+  * __busybox-util-linux__ instead ~~util-linux~~
+  * __busybox-iputils__ instead of ~~iputils~~
+  * __busybox-findutils__ instead of ~~findutils~~
 
 Generated with [mkimage-arch.sh][1]
 
