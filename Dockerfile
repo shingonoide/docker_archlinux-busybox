@@ -2,4 +2,4 @@
 FROM scratch
 MAINTAINER Rui Andrada <shingonoide@gmail.com>
 
-ADD archlinux-busybox_201502231253.tar.xz /
+ADD archlinux-busybox_201502232206.tar.xz /
